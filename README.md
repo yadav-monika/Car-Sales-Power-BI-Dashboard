@@ -8,3 +8,4 @@
 -Builiding KPI's,charts, custom maps, navigation card visuals etc.
 
 ![CarSales_Screenshot_1](https://github.com/yadav-monika/Car-Sales-Power-BI-Dashboard/assets/83118878/cbbb3c33-408a-488a-a795-93e429418b59)
+![CarSales_Screenshot_2](https://github.com/yadav-monika/Car-Sales-Power-BI-Dashboard/assets/83118878/44414777-ea82-43e2-ac98-73768e22c385)
